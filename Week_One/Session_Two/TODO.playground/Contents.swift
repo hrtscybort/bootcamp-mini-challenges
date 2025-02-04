@@ -72,7 +72,7 @@ months[11] = "December"
 // print(months[14])
 
 //6)
-func findMinMax(_ nums: [Int]) -> (Int, Int) {
+func findMinMax(_ nums: [Int]) -> (Int, Int)? {
     if nums.isEmpty {
         return nil
     }
