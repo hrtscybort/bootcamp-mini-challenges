@@ -70,4 +70,4 @@ func mySeatingArrangement(neighbors: [String]) -> Void {
 }
 mySeatingArrangement(neighbors: ["Alice", "Bob", "Charlie"])
 
-// functio
+// function mini challenge
